@@ -8,29 +8,29 @@ Error terjadi karena package auto_size belum terimport pada bagian main.dart kar
 
 ![Praktikum](images/praktikum.PNG)
 
-1.	Jelaskan maksud dari langkah 2 pada praktikum tersebut!
+2.	Jelaskan maksud dari langkah 2 pada praktikum tersebut!
     
-    <mark>Jawab :
+    <mark>Jawab</mark> :
 
     Menambahkan plugin auto_size_text ke dalam project sehingga plugin tersebut dapat secara otomatis terdeklarasi di dalam pubspec.yml atau terbentuk depency baru. Dimana package tersebut nantinya berfungsi agar secara otomatis mengubah ukuran teks agar presize dengan sempurna 
 
-2.	Jelaskan maksud dari langkah 5 pada praktikum tersebut!
+3.	Jelaskan maksud dari langkah 5 pada praktikum tersebut!
 
-    <mark>Jawab :
+    <mark>Jawab</mark>  :
     
     Langkah 5 adalah membuat variabel text yang nantinya dijadikan key yang bersifat required sesuai dengan parameter yang ada di contructor AutoSizeText
 
-3.	Pada langkah 6 terdapat dua widget yang ditambahkan, jelaskan fungsi dan perbedaannya!
+4.	Pada langkah 6 terdapat dua widget yang ditambahkan, jelaskan fungsi dan perbedaannya!
 
-    <mark>Jawab :
+    <mark>Jawab</mark>  :
     
     Cotainer pertama memiliki warna kuning sedangkan container kedua berwana greenAccent. Cotainer pertama memiliki width 50  sedangkan container kedua width 100.
     
     Cotainer pertama memiliki child berupa widget yang dibuat dari class red_text_widget dimana mengacu pada sutosize sehingga yang tampil hanya kata yang cukup untuk width sedangkan container menggunaan widget yang telah disediakan flutter
 
-1.	Jelaskan maksud dari tiap parameter yang ada di dalam plugin auto_size_text
+5.	Jelaskan maksud dari tiap parameter yang ada di dalam plugin auto_size_text
 
-    <mark>Jawab :
+    <mark>Jawab</mark>  :
     
     •	maxLines
     
